@@ -60,4 +60,4 @@ The gem is available as open source under the terms of the [MIT License](http://
 
 ## Credits
 
-Original idea by @gsabran
+Original idea by [@gsabran](https://github.com/gsabran)
